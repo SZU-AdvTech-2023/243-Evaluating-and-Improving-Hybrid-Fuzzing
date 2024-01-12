@@ -1,0 +1,7 @@
+@inproceedings{REPO243,
+    author = "Jiang, Ling and Yuan, Hengchen and Wu, Mingyuan and Zhang, Lingming and Zhang, Yuqun",
+    booktitle = "2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE)",
+    pages = "410--422",
+    title = "{Evaluating and Improving Hybrid Fuzzing}",
+    year = "2023"
+}
